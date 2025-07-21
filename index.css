@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-decoration-line: underline;
+}
+
+.card {
+  /* Add shadows to create "card" effect */
+  background-color: rgb(28, 26, 192);
+  box-shadow: 0 8px 8px 0 black;
+  height: 250px;
+  width: 700px;
+
+  font-style: oblique;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 20px auto;
+}
+
+button {
+  /* Added "add to cart button" */
+  background-color: rgba(25, 196, 19, 0.938);
+  border: none;
+  color: white;
+  height: 65px;
+  width: 200px;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 25px;
+  padding: 20px;
+}
